@@ -30,3 +30,4 @@ There are many kernel command line parameters, some of which are defined by the 
  - smsc95xx.turbo_mode: enables/disables the wired networking driver turbo mode. `smsc95xx.turbo_mode=N` turns turbo mode off.
  - usbhid.mousepoll: specifies the mouse polling interval. If you have problems with a slow or erratic wireless mouse, setting this to 0 might help: `usbhid.mousepoll=0`.
 
+More parameters: http://man7.org/linux/man-pages/man7/bootparam.7.html 
